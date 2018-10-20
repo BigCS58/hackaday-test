@@ -1,5 +1,0 @@
-local eidt
-
-remote edit
-
-Hello remote
